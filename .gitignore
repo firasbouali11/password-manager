@@ -1,0 +1,5 @@
+/target
+/keys
+/db.db
+/.idea
+/Cargo.lock
